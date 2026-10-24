@@ -1,0 +1,8 @@
+{
+    "name": "aj-private-client",
+    "productName": "Flight",
+    "version": "1.4.0",
+    "description": "The client for the Flight private server",
+    "main": "boot.js",
+    "license": "UNLICENSED"
+}

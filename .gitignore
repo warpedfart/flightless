@@ -1,0 +1,6 @@
+# Electron: downloaded by setup.sh / setup.bat
+/electron/
+/electron-win/
+# build output and build tooling
+/dist/
+node_modules/
